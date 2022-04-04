@@ -3,3 +3,5 @@
  查看状态： git status 
  添加到暂存区：git add .(即将被提交到仓库)
  提交到仓库：git commit -m ""
+ 日志查看 ：git log
+ 删除：	rm
